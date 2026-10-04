@@ -11,4 +11,4 @@ Memory before: 7,129,785 bytes; after: 2,423,931 bytes; saving: 66.00%.
 | CSV      | 1728793 |       0.107305 |
 | Parquet  |  159892 |       0.205517 |
 
-Run the notebook in Colab with raw_crashes.csv uploaded. Dependencies: numpy, pandas, pyarrow, tabulate. Timings vary by runtime. AI-assisted work; reviewed code and executed outputs are included.
+Run the notebook in Colab with raw_crashes.csv uploaded. Dependencies: numpy, pandas, pyarrow, tabulate. Timings vary by runtime.
